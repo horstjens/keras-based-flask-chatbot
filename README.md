@@ -10,4 +10,4 @@ I couldn't have done this without your help!
 
 
 # run 
-train
+train_chatbot.py
